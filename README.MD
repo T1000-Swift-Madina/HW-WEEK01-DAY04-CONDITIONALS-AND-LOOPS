@@ -1,5 +1,5 @@
 
-**CONDITIONALS & LOOPS**
+**CONDITIONALS & LOOPS HOMEWORK**
 ========================
 
 ## Homework Steps
