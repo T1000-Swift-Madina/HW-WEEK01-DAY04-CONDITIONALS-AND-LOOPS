@@ -1,6 +1,6 @@
 import UIKit
 
-var selectedCity = "Abha"
+
 var Cities : [String] = []
 let Population = [4205961, 2867446, 1300000, 1323624, 768602, 455450, 530848, 267005, 200161, 235157]
 
@@ -21,6 +21,7 @@ for i in ksaCities {
 
 
 // Solution #01
+var selectedCity = "Abha"
 for (n, c) in Cities.enumerated() { //
     if c == selectedCity {
         result = Population[n]
@@ -34,4 +35,4 @@ let city = "Madinah"
 let cityIdx = Cities.firstIndex(of: city)
 result = Population[cityIdx!]
 
-print("the selected city is \(city) and the population is: \(result)👩‍👩‍👦‍👦")
+print("the selected city is \(city) and the population is: 👤\(result)")
