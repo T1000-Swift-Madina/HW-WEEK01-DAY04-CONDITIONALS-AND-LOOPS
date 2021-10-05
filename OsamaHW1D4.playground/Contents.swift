@@ -34,7 +34,7 @@ switch tstname{
 
     default:
       print("Chooes city name")   }
-}
+
 
     
    
