@@ -4,7 +4,7 @@ var Cities = "Mahkh"
 var citiy = [String]()
 
 citiy.append(" Jeedh ")
-citiy.append(" Mahkh ")
+citiy.append("Mahkh")
 citiy.append(" Tabuk ")
 citiy.append(" Madinah")
 citiy.append(" Riadh ")
